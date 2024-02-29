@@ -7,7 +7,7 @@ Welcome to NAP ( News Aggregation Platform ) , a modern way to interact with the
 - **Customisable Positivity Rating** Application can determine the positivity rating, deliver matching articles
 - **Administrative interface** Admins can perform such operations as news editing, comment moderation.
 
-## Advanced security features
+## Advanced security options
 - **Block User by Email:**  With this feature admins can prevent users from creating a new account once banned
 
 - **Moderated User Account Creation:** Every newly created account must be confirmed by an admin / moderator to keep bots away
