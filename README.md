@@ -12,3 +12,6 @@ Welcome to NAP ( News Aggregation Platform ) , a modern way to interact with the
 
 - **Moderated User Account Creation:** Every newly created account must be confirmed by an admin / moderator to keep bots away
 
+## Getting Started
+1. **Clone the repository:**
+2. **Change server name from DESKTOP-S59I6HT to the name of the server in your environment.
