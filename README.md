@@ -14,4 +14,4 @@ Welcome to NAP ( News Aggregation Platform ) , a modern way to interact with the
 
 ## Getting Started
 1. **Clone the repository:**
-2. **Change server name from DESKTOP-S59I6HT to the name of the server in your environment.
+2. **Change server name from DESKTOP-S59I6HT to the name of the server in your environment.**
